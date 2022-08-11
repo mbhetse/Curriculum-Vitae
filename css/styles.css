@@ -1,6 +1,9 @@
-body {background-color:rgb(226 232 240)}
+body{margin: 0;}
+div {background-color:rgb(156 163 175);}
 hr {background-color: inherit;
     border-color: grey;}
 img{height: 190px;}
-h1{color: rgb(71 85 105);}
-h3{color: rgb(100 116 139);}
+h1{color: rgb(30 41 59);
+margin-top: 0;}
+h3{color: rgb(71 85 105);}
+.line{margin-top: 0;}
